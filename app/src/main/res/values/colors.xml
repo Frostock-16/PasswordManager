@@ -1,0 +1,31 @@
+<resources>
+    <!-- Primary dark background -->
+    <color name="primaryColorDark">#121212</color> <!-- Dark background -->
+
+    <!-- Accent colors for buttons and highlights -->
+    <color name="AccentOrange">#FF5722</color> <!-- Accent color (orange) -->
+    <color name="Green">#4CAF50</color> <!-- Calming green -->
+
+    <!-- Text colors -->
+    <color name="White">#FFFFFF</color> <!-- For white text -->
+    <color name="Black">#000000</color> <!-- For black text -->
+    <color name="searchTextColor">#FFFFFF</color> <!-- Search bar text color -->
+    <color name="searchHintColor">#B0B0B0</color> <!-- Search bar hint text color -->
+    <color name="hintTextColor">#AAAAAA</color> <!-- Hint text color -->
+    <color name="BlackTextColor">#333333</color>
+    <color name="searchBar">#2F2F31</color>
+
+    <!-- Button and other UI elements -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White text on buttons -->
+    <color name="iconTint">#FFFFFF</color> <!-- White tint for icons -->
+
+    <color name="DefaultBackgroundDark">#212121</color> <!-- Dark card background -->
+    <color name="cardBackground">#282828</color> <!-- Dark card background -->
+    <color name="toolbarBackground">#242424</color>
+    <color name="WhiteTextColor">#FFFFFF</color> <!-- White text for titles -->
+    <color name="GreyTextColor">#AAAAAA</color> <!-- Lighter grey for secondary text -->
+    <color name="LightBlueAccent">#A8A8A8</color> <!-- Light blue for icon tint -->
+    <color name="transparent">#00000000</color>
+    <color name="OnClickStar">#DBA70E</color>
+
+</resources>

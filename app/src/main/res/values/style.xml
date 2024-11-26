@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textColorHint">@color/White</item>
+    </style>
+
+
+    <!-- Toolbar Theme -->
+    <style name="toolbarTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textColorPrimary">@color/White</item>
+        <item name="android:background">#121212</item>
+    </style>
+
+
+    <!-- SearchView style -->
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textColor">@color/searchTextColor</item>
+        <item name="android:textColorHint">@color/searchHintColor</item>
+        <item name="android:background">@drawable/rounded_search_view_background</item>
+        <item name="android:iconifiedByDefault">false</item>
+        <item name="android:queryBackground">@null</item>
+        <item name="android:searchIcon">@color/GreyTextColor</item>
+    </style>
+
+    <!-- Minimalistic button style -->
+    <style name="MinimalButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+
+    <!-- Minimalistic text style -->
+    <style name="MinimalTextViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Minimalistic EditText style -->
+    <style name="MinimalEditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/input_field_background</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+    <style name="MinimalIconButtonStyle" parent="Widget.AppCompat.ImageButton">
+        <item name="android:layout_width">36dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:tint">@color/LightBlueAccent</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+</resources>

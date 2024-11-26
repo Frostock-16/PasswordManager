@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="add_new_password">Add new password</string>
+    <string name="recently_used">Recently Used</string>
+    <string name="my_passwords">My Passwords</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="don_t_have_any_account_sign_up">Don’t have any account? Sign Up</string>
+    <string name="password_manager">Password Manager</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="back">back</string>
+    <string name="log_out">Log Out</string>
+    <string name="back_button">Back Button</string>
+    <string name="search">search</string>
+    <string name="copy">Copy</string>
+    <string name="edit">Edit</string>
+    <string name="username_example_com">username@example.com</string>
+    <string name="site_name">Site Name</string>
+    <string name="floating_add_button">Floating Add Button</string>
+    <string name="note">note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="navigation_button">navigation button</string>
+    <string name="nav_open">nav_open</string>
+    <string name="nav_close">nav_close</string>
+    <string name="deleted_passwords">Deleted Passwords</string>
+    <string name="restore">Restore</string>
+</resources>
